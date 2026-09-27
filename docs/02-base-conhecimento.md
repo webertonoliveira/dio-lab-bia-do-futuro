@@ -58,7 +58,7 @@ with open('data/perfil_investidor.json', 'r', encoding'utf-8') as f:
   "nome": "Weberton Oliveira",
   "idade": 42,
   "profissao": "Analista de Produtos",
-  "renda_mensal": 15000.00,
+  "renda_mensal": 10000.00,
   "perfil_investidor": "moderado",
   "objetivo_principal": "Construir reserva de emergência",
   "patrimonio_total": 15000.00,
