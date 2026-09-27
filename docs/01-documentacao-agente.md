@@ -15,7 +15,7 @@ Criar uma forma de acompanhar e mostrar caso esteja saindo do que é previsto pa
 ### Público-Alvo
 > Quem vai usar esse agente?
 
-Clientes PF que possam utilizar para acompanhar de forma mais próxima
+Clientes PF que possam utilizar para acompanhar de forma mais próxima os seus gastos e investimentos de forma clara para que possa ajudar a não entrar no negativo.
 
 ---
 
