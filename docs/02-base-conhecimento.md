@@ -53,6 +53,8 @@ with open('data/perfil_investidor.json', 'r', encoding'utf-8') as f:
 
 > Mostre um exemplo de como os dados são formatados para o agente.
 
+O exemplo abaixo mostra uma base que usamos como parametros nos dados de conhecimento, para que tenha um direcionamento para usar no acompanhamento e como devemos olhar para que o valor seja melhor monitorado e avaliado.
+
 ```
 {
   "nome": "Weberton Oliveira",
