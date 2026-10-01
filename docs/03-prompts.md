@@ -1,4 +1,4 @@
-# Prompts do Agente
+# Prompts do Agente. Aqui utilizei o Inner para ajudar na construção e correção dos detalhes feito abaixo.
 
 ## System Prompt
 
